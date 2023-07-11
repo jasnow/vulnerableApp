@@ -126,6 +126,10 @@ GEM
     nokogiri (1.15.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    nokogiri (1.15.3-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.15.3-x86_64-linux)
+      racc (~> 1.4)
     parser (3.2.2.3)
       ast (~> 2.4.1)
       racc
@@ -214,6 +218,8 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.6.3)
       mini_portile2 (~> 2.8.0)
+    sqlite3 (1.6.3-x86_64-darwin)
+    sqlite3 (1.6.3-x86_64-linux)
     stringio (3.0.7)
     strings (0.2.1)
       strings-ansi (~> 0.2)
@@ -249,6 +255,7 @@ GEM
     zeitwerk (2.6.8)
 
 PLATFORMS
+  ruby
   x86_64-darwin-16
   x86_64-linux
 
@@ -268,4 +275,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   2.5.0.dev
+   2.4.16
