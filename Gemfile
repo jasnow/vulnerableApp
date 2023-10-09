@@ -2,11 +2,6 @@ source "https://rubygems.org"
 
 gem 'rails', '7.1.0'
 
-gem 'base64'
-gem 'bigdecimal'
-gem 'drb'
-gem 'mutex_m'
-
 gem 'sqlite3'
 
 gem 'sassc-rails'

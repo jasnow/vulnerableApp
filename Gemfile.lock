@@ -281,13 +281,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  base64
-  bigdecimal
   coffee-rails
-  drb
   jbuilder
   jquery-rails
-  mutex_m
   rails (= 7.1.0)
   ruby_audit
   sassc-rails
