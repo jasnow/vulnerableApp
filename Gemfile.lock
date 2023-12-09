@@ -101,14 +101,14 @@ GEM
     ffi (1.16.3)
     globalid (1.2.1)
       activesupport (>= 6.1)
-    haml (6.2.3)
+    haml (6.2.4)
       temple (>= 0.8.2)
       thor
       tilt
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     io-console (0.6.0)
-    irb (1.10.0)
+    irb (1.10.1)
       rdoc
       reline (>= 0.3.8)
     jbuilder (2.11.5)
@@ -190,7 +190,7 @@ GEM
       thor (~> 1.0, >= 1.2.2)
       zeitwerk (~> 2.6)
     rake (13.1.0)
-    rdoc (6.6.0)
+    rdoc (6.6.1)
       psych (>= 4.0.0)
     reline (0.4.1)
       io-console (~> 0.5)
