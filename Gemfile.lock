@@ -142,6 +142,7 @@ GEM
     nokogiri (1.16.6)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    ostruct (0.6.0)
     parser (3.3.3.0)
       ast (~> 2.4.1)
       racc
@@ -283,6 +284,7 @@ DEPENDENCIES
   coffee-rails
   jbuilder
   jquery-rails
+  ostruct
   rails (= 7.1.3.4)
   ruby_audit
   sassc-rails
