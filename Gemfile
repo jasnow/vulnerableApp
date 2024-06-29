@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem 'rails', '7.2.0.beta2'
 gem 'ostruct'
+gem 'net-pop', github: 'ruby/net-pop' # 6/28/2024: Required for RUBY 3.3.3
 
 gem 'sqlite3', '~> 1.4'
 
