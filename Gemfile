@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-gem 'rails', '7.2.1'
+gem 'rails', '8.0.0.beta1'
 gem 'ostruct'
 
-gem 'sqlite3', '~> 1.4'
+gem 'sqlite3'
 
 gem 'sassc-rails'
 

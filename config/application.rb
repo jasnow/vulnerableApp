@@ -21,5 +21,7 @@ module Myapp
     # config.i18n.default_locale = :de
 
     config.active_support.cache_format_version = 7.0
+
+    config.active_support.to_time_preserves_timezone = :zone
   end
 end
