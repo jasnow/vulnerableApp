@@ -206,8 +206,8 @@ GEM
       tilt
     sdoc (2.6.1)
       rdoc (>= 5.0)
-    securerandom (0.3.1)
-    sexp_processor (4.17.2)
+    securerandom (0.3.2)
+    sexp_processor (4.17.3)
     simplecov (0.22.0)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
