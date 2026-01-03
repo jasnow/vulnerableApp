@@ -25,7 +25,6 @@ gem 'sdoc', group: :doc
 gem 'spring', group: :development
 
 gem 'simplecov', require: false, group: :test
-gem 'ruby_audit'
 gem 'spektr'
 
 # Use ActiveModel has_secure_password
